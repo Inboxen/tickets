@@ -1,4 +1,4 @@
-Tickets
-=======
-This is the web interface for ticket submission 
+Tickets- obsolete
+=================
 
+Please see [our new repo](https://github.com/Inboxen/Inboxen) for current development
